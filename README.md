@@ -15,7 +15,7 @@ The executable (`ultrasec.exe`) has not been obfuscated in any way, shape, or fo
 ## Obfuscated Nightmare
 
 For those seeking an even greater challenge, I've created an obfuscated nightmare version,
-[check it out here](https://github.com/voksireimagined/Ultrasec-VMP/tree/main/Obfuscated_Nightmare). Brace yourself!
+[check it out here](https://github.com/voksireimagined/Ultrasec-VMP). Brace yourself!
 
 
 
