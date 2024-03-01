@@ -4,7 +4,7 @@ Welcome to the UltraSec CrackMe challenge! This is the first attempt at creating
 
 ## Challenge Overview
 
-The executable (`ultraSec.exe`) has not been obfuscated in any way, shape, or form. Your mission, should you choose to accept it, is to reverse engineer the application and find the hidden key. This challenge aims to be both fun and educational, offering an opportunity to enhance your reverse engineering skills.
+The executable (`ultrasec.exe`) has not been obfuscated in any way, shape, or form. Your mission, should you choose to accept it, is to reverse engineer the application and find the hidden key. This challenge aims to be both fun and educational, offering an opportunity to enhance your reverse engineering skills.
 
 ## Instructions
 
