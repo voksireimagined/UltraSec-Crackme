@@ -17,8 +17,8 @@ this is a pretty medium-ish crackme.
 no obfuscation but if you want a harder version (WITH VMP)
 here u go:
 
-- www.crackmes.one
-- www.github
+- www.crackmes.one (coming soon)
+- https://github.com/voksireimagined/Ultrasec-VMP/tree/main
 
 
 
