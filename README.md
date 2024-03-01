@@ -1,10 +1,10 @@
 # UltraSec CrackMe Challenge
 
-Welcome to the UltraSec CrackMe challenge! This is the first attempt at creating a crackme, designed to test your skills in reverse engineering. Whether you're a seasoned cracker or just starting out, I hope you find this challenge enjoyable.
+Welcome to the UltraSec CrackMe challenge! This is the first attempt at creating a crackme, designed to test your skills in reverse engineering. Whether you're a bit more advanced or or just starting out, I hope you find this challenge enjoyable.
 
 ## Challenge Overview
 
-The executable (`ultrasec.exe`) has not been obfuscated in any way, shape, or form. Your mission, should you choose to accept it, is to reverse engineer the application and find the hidden key. This challenge aims to be both fun and educational, offering an opportunity to enhance your reverse engineering skills.
+The executable (`ultrasec.exe`) has not been obfuscated in any way, shape, or form. Your mission, should you choose to accept it, is to reverse engineer the application and crack it. This challenge aims to be both fun and educational, offering an opportunity to enhance your reverse engineering skills.
 
 ## Instructions
 
